@@ -7,6 +7,6 @@ described on the Wiki page:
 
 ## How the repository is organised
 
+- `firmware/` folder: MSS support files generated from Libero
+- `Libero/` folder: contains the Libero project files in .zip archives
 - C project files (for the MSS) are under the main tree of the repository.
-- The `Libero/` folder contains the Libero project files in .zip archives. The
-.zip archives include the `firmware/` folder under the main repository tree.
